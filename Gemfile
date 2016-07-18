@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'axlsx'
+gem 'axlsx', '~> 2.0.1'
 gemspec
 
 group :development, :test do
